@@ -31,7 +31,7 @@ load("d:/Users/Fanni/Desktop/Területi autokorreláció/matrix_NUTS_3.RData")
 #city <- vector()
 
 #for (i in 1:1006){
-#  register_google(key = "AIzaSyD043L4r5yqacnCwv465zE0muf6vnTr4s0")
+#  register_google(key = "")
 #  code <- geocode(cities_2$whole[i])
 #  city[i] <- cities_2$whole[i]
 #  lon[i] <- code$lon
