@@ -1,4 +1,4 @@
-API_key <- "AIzaSyB_hP0TrJUvDff4ZH_xOvbhyJfyqGBhZvY"
+API_key <- ""
 
 setwd("d:/Users/Fanni/Documents/02. Corvinus/2. GPME/Szakdolgozat - mester/Területi autokorreláció/")
 
